@@ -63,7 +63,8 @@ The goal was to build a **centralized dashboard** that:
 
 ## 📷 Dashboard Preview
 
-![Ecommerce dashboard](<Ecommerce Dashboard.png>)
+<img width="1343" height="756" alt="Ecommerce Dashboard" src="https://github.com/user-attachments/assets/f98883e4-ed1b-4f68-b8b9-941490ecbacf" />
+
 
 ## ⚙️ Tech Stack
 
