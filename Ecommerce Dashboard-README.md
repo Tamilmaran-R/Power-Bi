@@ -63,7 +63,7 @@ The goal was to build a **centralized dashboard** that:
 
 ## 📷 Dashboard Preview
 
-![Ecommerce dashboard](<Ecommerce Dashboard-1.png>)
+![Ecommerce dashboard](<Ecommerce Dashboard.png>)
 
 ## ⚙️ Tech Stack
 
